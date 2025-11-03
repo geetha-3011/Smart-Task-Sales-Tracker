@@ -118,3 +118,8 @@ This project can help small and medium businesses:
 📧 **Email:** geethalakshmi0399@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/geethalakshmi3011](https://www.linkedin.com/in/geethalakshmi3011)  
 💼 **GitHub:** [github.com/geetha-3011](https://github.com/geetha-3011)  
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. You are free to use and modify it with proper attribution.
