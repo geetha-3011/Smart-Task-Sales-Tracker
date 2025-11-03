@@ -112,7 +112,7 @@ This project can help small and medium businesses:
 
 ## 👩‍💻 Author
 
-**Geetha Lakshmi. T**  
+**GeethaLakshmi.T**  
 *Final Year B.Tech (Information Technology)*  
 
 📧 **Email:** geethalakshmi0399@gmail.com  
