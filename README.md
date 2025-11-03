@@ -36,8 +36,6 @@ This project integrates **Java Swing for the user interface** and **JDBC with My
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 ```
 SMART-TASK-SALES-TRACKER/
 │
