@@ -36,26 +36,29 @@ This project integrates **Java Swing for the user interface** and **JDBC with My
 
 ## 📂 Project Structure
 
+## 📂 Project Structure
+
+```
 SMART-TASK-SALES-TRACKER/
 │
 ├── lib/
-│ └── mysql-connector-j-9.4.0.jar # JDBC driver for MySQL connection
+│   └── mysql-connector-j-9.4.0.jar        # JDBC driver for MySQL connection
 │
-├── out/ # Compiled .class files
-│ ├── JDBCUtils.class
-│ ├── Sale.class
-│ ├── SaleDAO.class
-│ ├── SmartTaskSalesJDBC.class
-│ ├── Task.class
-│ ├── TaskDAO.class
-│ ├── User.class
-│ └── UserDAO.class
+├── out/                                   # Compiled .class files
+│   ├── JDBCUtils.class
+│   ├── Sale.class
+│   ├── SaleDAO.class
+│   ├── SmartTaskSalesJDBC.class
+│   ├── Task.class
+│   ├── TaskDAO.class
+│   ├── User.class
+│   └── UserDAO.class
 │
-├── src/ # Source code files
-│ └── SmartTaskSalesJDBC.java
+├── src/                                   # Source code files
+│   └── SmartTaskSalesJDBC.java
 │
-└── README.md # Project documentation
-
+└── README.md                              # Project documentation
+```
 ---
 
 ## ⚙️ Features
